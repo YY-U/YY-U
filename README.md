@@ -1,5 +1,5 @@
 👋 Hi, I’m @YY-U.
-👀 I’m interested in deeplearning and web application development. 
+👀 I’m interested in web application development. 
 🌱 Thus, I’m currently learning them.
 
 <!--- - 🌱 I’m currently learning 
